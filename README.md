@@ -1,7 +1,7 @@
 # 2018 Stanford Earth Young Investigators: Biodiversity
 This respository contains information for 2018 <a href="http://historyoflife.stanford.edu" target="_blank">SEYI: Biodiversity</a> high school internship program.
 
-## Schedule (*in progress*)
+## Schedule (*incomplete*)
 Unless otherwise noted, the internship meets every Monday, Tuesday, & Thursday from 9 AM until 4 PM.
 We meet in GeoCorner 220 on the campus of Stanford University.
 
@@ -12,6 +12,8 @@ Date | Event
 09-10 July 2018 | Field Trip to Salinas Valley & Pinnacles National Park 
 09 August 2018 | Final Presentations
 
-## Resources (*in progress*)
-Using GitHub
-Learning R
+## Resources (*incomplete*)
+* Using GitHub
+* Learning R
+* [Paleobiology Database API])(http://paleobiodb.org/data1.2)
+* [Macrostrat API](http://macrostrat.org/api)
