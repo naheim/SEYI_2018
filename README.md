@@ -1,5 +1,5 @@
 # 2018 Stanford Earth Young Investigators: Biodiversity
-This respository contains information for 2018 <a href="http://historyoflife.stanford.edu" target="_blank">SEYI: Biodiversity</a> high school internship program.
+This respository contains information for 2018 [SEYI: Biodiversity](http://historyoflife.stanford.edu/) high school internship program.
 
 ## Schedule (*incomplete*)
 Unless otherwise noted, the internship meets every Monday, Tuesday, & Thursday from 9 AM until 4 PM.
