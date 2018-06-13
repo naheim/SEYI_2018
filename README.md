@@ -5,15 +5,20 @@ This respository contains information for 2018 <a href="http://historyoflife.sta
 Unless otherwise noted, the internship meets every Monday, Tuesday, & Thursday from 9 AM until 4 PM.
 We meet in GeoCorner 220 on the campus of Stanford University.
 
-Date | Event
+Date | Event/Assignment
 ---- | -----
 19 June 2018 | Orientation
-03 July 2018 | Field Trip to New Brighton State Beach
-09-10 July 2018 | Field Trip to Salinas Valley & Pinnacles National Park 
-09 August 2018 | Final Presentations
+21 June 2018 | First full day of internship
+03 July 2018 | <ul><li>Field trip to New Brighton State Beach</li><li>**Blog 1 due at 6 PM**</li></ul>
+09-10 July 2018 | Overnight field Trip to Salinas Valley & Pinnacles National Park
+23 July 2018 | Half-day field trip with MSI noon to ~6 PM, please show up for the regular 9 AM start time
+27 July 2018 | **Blog 2 due at 6 PM**
+09 August 2018 | Final presentations & last day of internship
+10 August 2018 | **Blog 3 due at 6 PM**
 
 ## Resources (*incomplete*)
-* Using GitHub
 * Learning R
+* Using GitHub
+* [Mastering Markdown](https://guides.github.com/features/mastering-markdown)
 * [Paleobiology Database API](http://paleobiodb.org/data1.2)
 * [Macrostrat API](http://macrostrat.org/api)
