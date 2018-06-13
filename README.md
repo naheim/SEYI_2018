@@ -15,5 +15,5 @@ Date | Event
 ## Resources (*incomplete*)
 * Using GitHub
 * Learning R
-* [Paleobiology Database API])(http://paleobiodb.org/data1.2)
+* [Paleobiology Database API](http://paleobiodb.org/data1.2)
 * [Macrostrat API](http://macrostrat.org/api)
