@@ -1,4 +1,5 @@
-![SEYI Logo](/images/CMYK_SE3_SEYI_H.pdf)
+![SEYI Logo](/images/CMYK_SE3_SEYI_H.png)
+---
 # 2018 Stanford Earth Young Investigators: Biodiversity
 This respository contains information for 2018 [SEYI: Biodiversity](http://historyoflife.stanford.edu/) high school internship program.
 
