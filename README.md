@@ -1,2 +1,2 @@
-# SEYI_2018
-Internship site for 2018 Stanford Earth Young Investigators: Biodiversity
+# 2018 Stanford Earth Young Investigators: Biodiversity
+## Project for the 2018 High School Internship Program
