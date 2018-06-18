@@ -20,7 +20,7 @@ Date | Event/Assignment
 
 ## Resources (*incomplete*)
 * [Using GitHub](https://github.com/naheim/seyibExercises/blob/master/GitTutorial/gitTutorial.md)
-* [Learning R](https://github.com/naheim/startLearn.R/blob/master/README.md)
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown)
+* [Learning R](https://github.com/naheim/startLearn.R/blob/master/README.md)
 * [Paleobiology Database API](http://paleobiodb.org/data1.2)
 * [Macrostrat API](http://macrostrat.org/api)
