@@ -19,8 +19,8 @@ Date | Event/Assignment
 10 August 2018 | **Blog 3 due at 6 PM**
 
 ## Resources (*incomplete*)
-* Learning R
 * [Using GitHub](https://github.com/naheim/seyibExercises/blob/master/GitTutorial/gitTutorial.md)
+* [Learning R](https://github.com/naheim/startLearn.R)
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown)
 * [Paleobiology Database API](http://paleobiodb.org/data1.2)
 * [Macrostrat API](http://macrostrat.org/api)
