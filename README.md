@@ -3,11 +3,11 @@
 # 2018 Biodiversity Option
 This respository contains information for 2018 [SEYI: Biodiversity](http://historyoflife.stanford.edu/) high school internship program.
 
-## Schedule (*incomplete*)
+## Important Dates
 Unless otherwise noted, the internship meets every Monday, Tuesday, & Thursday from 9 AM until 4 PM.
 We meet in GeoCorner 220 on the campus of Stanford University.
 
-Date | Event/Assignment
+Date | Trip/Due Date
 ---- | -----
 19 June 2018 | Orientation
 21 June 2018 | First full day of internship
@@ -17,6 +17,17 @@ Date | Event/Assignment
 27 July 2018 | **Blog 2 due at 6 PM**
 09 August 2018 | Final presentations & last day of internship
 10 August 2018 | **Blog 3 due at 6 PM**
+
+## R Exercises (*incomplete*)
+These R Exercises were developed by [Andrew Zaffos](https://github.com/aazaff) for the UW-Madison Paleobiology Course. I modified them for SEYI. Start your introduction to R [here](https://github.com/naheim/startLearn.R/blob/master/README.md)
+
+Date | Exercise
+---- | -----
+25 June 2018 | [Beginning R](https://github.com/naheim/startLearn.R/blob/master/beginnerConcepts.md) & [Intermediate R](https://github.com/naheim/startLearn.R/blob/master/intermediateConcepts.md)
+26 June 2018 | [Advanced R](https://github.com/naheim/startLearn.R/blob/master/advancedConcepts.md) & [Expert R](https://github.com/naheim/startLearn.R/blob/master/expertConcepts.md)
+26 June 2018 | [Intro to PBDB](https://github.com/naheim/seyibExercises/blob/master/pbdbIntro.md)
+
+
 
 ## Resources (*incomplete*)
 * [Using GitHub](https://github.com/naheim/seyibExercises/blob/master/GitTutorial/gitTutorial.md)
