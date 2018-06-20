@@ -35,3 +35,5 @@ Date | Exercise
 * [Learning R](https://github.com/naheim/startLearn.R/blob/master/README.md)
 * [Paleobiology Database API](http://paleobiodb.org/data1.2)
 * [Macrostrat API](http://macrostrat.org/api)
+
+## Just checking
