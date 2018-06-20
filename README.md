@@ -1,4 +1,5 @@
-![SEYI Logo](/images/CMYK_SE3_SEYI_H.png)
+![SEYI Logo](images/CMYK_SE3_SEYI_H.png "wordmark logo")
+
 ---
 # 2018 Biodiversity Option
 This respository contains information for 2018 [SEYI: Biodiversity](http://historyoflife.stanford.edu/) high school internship program.
@@ -18,8 +19,18 @@ Date | Trip/Due Date
 09 August 2018 | Final presentations & last day of internship
 10 August 2018 | **Blog 3 due at 6 PM**
 
-## R Exercises (*incomplete*)
-These R Exercises were developed by [Andrew Zaffos](https://github.com/aazaff) for the UW-Madison Paleobiology Course. I modified them for SEYI. Start your introduction to R [here](https://github.com/naheim/startLearn.R/blob/master/README.md)
+
+## 'Lab' Exercises (*in progress*)
+These exercises are meant to help you gain a better understanding of geological time; the diversity and biology of fossil organisms; and the scienctific practices of geologists and paleobiologists.
+
+Date | Exercise
+-----|---------
+21 June 2018 AM | [Geologic Timescale](https://github.com/naheim/seyibExercises/blob/master/GeologicTime/geologicTime.md)
+21 June 2018 PM | Cambrian Fossils
+
+
+## R Exercises (*in progress*)
+These R exercises were developed by [Andrew Zaffos](https://github.com/aazaff) for the UW-Madison Paleobiology Course. I modified them for SEYI. Start your introduction to R [here](https://github.com/naheim/startLearn.R/blob/master/README.md)
 
 Date | Exercise
 ---- | -----
@@ -28,12 +39,9 @@ Date | Exercise
 26 June 2018 | [Intro to PBDB](https://github.com/naheim/seyibExercises/blob/master/pbdbIntro.md)
 
 
-
-## Resources (*incomplete*)
+## Resources
 * [Using GitHub](https://github.com/naheim/seyibExercises/blob/master/GitTutorial/gitTutorial.md)
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown)
 * [Learning R](https://github.com/naheim/startLearn.R/blob/master/README.md)
 * [Paleobiology Database API](http://paleobiodb.org/data1.2)
 * [Macrostrat API](http://macrostrat.org/api)
-
-## Just checking
