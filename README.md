@@ -41,7 +41,7 @@ Date | Trip/Due Date
 09 August 2018 | Final presentations & last day of internship
 10 August 2018 | **Blog 3 due at 6 PM**
 
-## <a name="lab-exercises"></a>'Lab' Exercises (*in progress*)
+## <a name="lab-exercises"></a>'Lab' Exercises
 These exercises are meant to help you gain a better understanding of geological time; the diversity and biology of fossil organisms; and the scienctific practices of geologists and paleobiologists.
 
 Date | Exercise
