@@ -57,8 +57,7 @@ Date | Exercise
 ---- | -----
 25 June 2018 | [Beginning R](https://github.com/naheim/startLearn.R/blob/master/beginnerConcepts.md) & [Intermediate R](https://github.com/naheim/startLearn.R/blob/master/intermediateConcepts.md)
 26 June 2018 | [Advanced R](https://github.com/naheim/startLearn.R/blob/master/advancedConcepts.md) & [Expert R](https://github.com/naheim/startLearn.R/blob/master/expertConcepts.md)
-26 June 2018 | [Intro to PBDB](https://github.com/naheim/seyibExercises/blob/master/RExercises/pbdbIntro.md)
-
+26 June 2018 | Intro to PBDB
 
 ## <a name="resources"></a>Resources
 * [Using GitHub](https://github.com/naheim/seyibExercises/blob/master/GitTutorial/gitTutorial.md)
