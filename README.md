@@ -47,7 +47,10 @@ These exercises are meant to help you gain a better understanding of geological 
 Date | Exercise
 -----|---------
 21 June 2018 AM | [Geologic Timescale](https://github.com/naheim/seyibExercises/blob/master/GeologicTime/geologicTime.md)
-21 June 2018 PM | Cambrian Fossils
+21 June 2018 PM | [Cambrian Fossils](https://github.com/naheim/seyibExercises/blob/master/FossilExercises/Lab01_CambrianFossils.pdf)
+26 June 2018 PM | Paleozoic Fossils
+28 June 2018 PM | Fossils Mollusks
+05 July 2018 PM | Fossils Echinoderms
 
 
 ## <a name="r-exercises"></a>R Exercises (*in progress*)
@@ -55,9 +58,30 @@ These R exercises were developed by [Andrew Zaffos](https://github.com/aazaff) f
 
 Date | Exercise
 ---- | -----
-25 June 2018 | [Beginning R](https://github.com/naheim/startLearn.R/blob/master/beginnerConcepts.md) & [Intermediate R](https://github.com/naheim/startLearn.R/blob/master/intermediateConcepts.md)
-26 June 2018 | [Advanced R](https://github.com/naheim/startLearn.R/blob/master/advancedConcepts.md) & [Expert R](https://github.com/naheim/startLearn.R/blob/master/expertConcepts.md)
-26 June 2018 | Intro to PBDB
+25 June 2018 AM | [Beginning R](https://github.com/naheim/startLearn.R/blob/master/beginnerConcepts.md) & [Intermediate R](https://github.com/naheim/startLearn.R/blob/master/intermediateConcepts.md)
+26 June 2018 AM | [Advanced R](https://github.com/naheim/startLearn.R/blob/master/advancedConcepts.md) & [Expert R](https://github.com/naheim/startLearn.R/blob/master/expertConcepts.md)
+26 June 2018 PM | Intro to PBDB
+
+## <a name="reading-discussion"></a>Reading & Discussion (*subject to change*)
+We will read a combination of peer-reviewed scientific articles as well a book on body size that is geared towards a more genearl audience. The objectives of reading and discussing scientific articles and books are to teach you how to read a scientific paper, provide general background on body-size reserach, and give you an idea of analytical methods you may want to use in your own research. The book we are going to read is *Why Size Matters* by John Bonner.
+
+Date | Reading
+---- | -----
+25 June 2018 AM | Knope *et al.* 2015
+26 June 2018 AM | Heim *et al.* 2015
+28 June 2018 AM | Bambach *et al.* 2002
+02 July 2018 AM | Bonner Chapters 1 & 2
+05 July 2018 AM | McShea 1995
+12 July 2018 AM | Bonner Chapter 3
+17 July 2018 AM | Hunt 2007
+19 July 2018 AM | Bonner Chapter 4
+26 July 2018 AM | Zaffos *et al.* 2017
+31 July 2018 AM | Bonner Chpater 5
+02 August 2018 AM | Sibert & Norris 2016
+07 August 2018 AM | Bonner Chapter 6 & 7
+
+
+
 
 ## <a name="resources"></a>Resources
 * [Using GitHub](https://github.com/naheim/seyibExercises/blob/master/GitTutorial/gitTutorial.md)
