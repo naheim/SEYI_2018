@@ -7,8 +7,9 @@ This respository contains information for 2018 [SEYI: Biodiversity](http://histo
 * [2018 Interns & their blogs](#interns-blogs)
 * [Important Dates](#important-dates)
 * [Lab Exercises](#lab-exercises)
-* [R Exercises](#r-exercises) 
-* [Resources](#r-exercises) 
+* [R Exercises](#r-exercises)
+* [Special Presentations](#special-presentations)
+* [Resources](#resources) 
 
 ## <a name="interns-blogs"></a>2018 SEYI:Biodiversity Interns
 (links to blogs will be poste by 05 July 2018)
@@ -61,6 +62,15 @@ Date | Exercise
 25 June 2018 AM | [Beginning R](https://github.com/naheim/startLearn.R/blob/master/beginnerConcepts.md) & [Intermediate R](https://github.com/naheim/startLearn.R/blob/master/intermediateConcepts.md)
 26 June 2018 AM | [Advanced R](https://github.com/naheim/startLearn.R/blob/master/advancedConcepts.md) & [Expert R](https://github.com/naheim/startLearn.R/blob/master/expertConcepts.md)
 26 June 2018 PM | Intro to PBDB
+
+## <a name="special-presentations"></a>Special Presentations (*in progress & subject to change*)
+This summer we will have several special presentations by Stanford (and maybe other) reserchers. The Goal of these presentations is to indtorduce you to the breadth of evolutinary, ecological, and geolgogical reserach that takes place at Stanford. **This schedule is subject to change**.
+
+Date | Speaker | Topic
+---- | --------| -----
+17 July 2018 AM | Don Lowe, Geolgoical Sci. | Precambrian sedimentary geology & geobiology
+24 July 2018 PM | Bridget Algee-Hewitt, Biology | Human Biology
+02 August 2018 AM | Erik Sperling & Aodhan Butler, Geolgoical Sci. | Cambrian Paleobiology
 
 ## <a name="reading-discussion"></a>Reading & Discussion (*subject to change*)
 We will read a combination of peer-reviewed scientific articles as well a book on body size that is geared towards a more genearl audience. The objectives of reading and discussing scientific articles and books are to teach you how to read a scientific paper, provide general background on body-size reserach, and give you an idea of analytical methods you may want to use in your own research. The book we are going to read is *Why Size Matters* by John Bonner.
