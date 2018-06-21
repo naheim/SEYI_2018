@@ -1,10 +1,32 @@
 ![SEYI Logo](images/CMYK_SE3_SEYI_H.png "wordmark logo")
 
 ---
-# 2018 Biodiversity Option
+# 2018 Biodiversity Internship
 This respository contains information for 2018 [SEYI: Biodiversity](http://historyoflife.stanford.edu/) high school internship program.
 
-## Important Dates
+* [2018 Interns & their blogs](#interns-blogs)
+* [Important Dates](#important-dates)
+* [Lab Exercises](#lab-exercises)
+* [R Exercises](#r-exercises) 
+* [Resources](#r-exercises) 
+
+## <a name="interns-blogs"></a>2018 SEYI:Biodiversity Interns
+(links to blogs will be poste by 05 July 2018)
+
+Intern | High School
+------ | -----------
+Ameya Patkar | Lynbrook High School, San Jose
+Ashli Jain | Menlo School, Atherton
+Christopher Noll | San Mateo High School, San Mateo
+Isabella Villante | Capuchino High School, San Bruno
+Loc Buu | Yerba Buena High School, San Jose
+Noah Rizk | Monta Vista High School, Cupertino
+Saket Bakshi | Leigh High School, San Jose
+Shannon Heh | Lynbrook High School, San Jose
+Sriram Sundararajan | Saint Francis High School, Mountain View
+Stephanie Chen | Balboa High School, San Francisco
+
+## <a name="important-dates"></a>Important Dates
 Unless otherwise noted, the internship meets every Monday, Tuesday, & Thursday from 9 AM until 4 PM.
 We meet in GeoCorner 220 on the campus of Stanford University.
 
@@ -19,8 +41,7 @@ Date | Trip/Due Date
 09 August 2018 | Final presentations & last day of internship
 10 August 2018 | **Blog 3 due at 6 PM**
 
-
-## 'Lab' Exercises (*in progress*)
+## <a name="lab-exercises"></a>'Lab' Exercises (*in progress*)
 These exercises are meant to help you gain a better understanding of geological time; the diversity and biology of fossil organisms; and the scienctific practices of geologists and paleobiologists.
 
 Date | Exercise
@@ -29,17 +50,17 @@ Date | Exercise
 21 June 2018 PM | Cambrian Fossils
 
 
-## R Exercises (*in progress*)
+## <a name="r-exercises"></a>R Exercises (*in progress*)
 These R exercises were developed by [Andrew Zaffos](https://github.com/aazaff) for the UW-Madison Paleobiology Course. I modified them for SEYI. Start your introduction to R [here](https://github.com/naheim/startLearn.R/blob/master/README.md)
 
 Date | Exercise
 ---- | -----
 25 June 2018 | [Beginning R](https://github.com/naheim/startLearn.R/blob/master/beginnerConcepts.md) & [Intermediate R](https://github.com/naheim/startLearn.R/blob/master/intermediateConcepts.md)
 26 June 2018 | [Advanced R](https://github.com/naheim/startLearn.R/blob/master/advancedConcepts.md) & [Expert R](https://github.com/naheim/startLearn.R/blob/master/expertConcepts.md)
-26 June 2018 | [Intro to PBDB](https://github.com/naheim/seyibExercises/blob/master/pbdbIntro.md)
+26 June 2018 | [Intro to PBDB](https://github.com/naheim/seyibExercises/blob/master/RExercises/pbdbIntro.md)
 
 
-## Resources
+## <a name="resources"></a>Resources
 * [Using GitHub](https://github.com/naheim/seyibExercises/blob/master/GitTutorial/gitTutorial.md)
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown)
 * [Learning R](https://github.com/naheim/startLearn.R/blob/master/README.md)
