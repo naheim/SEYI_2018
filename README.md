@@ -9,6 +9,7 @@ This respository contains information for 2018 [SEYI: Biodiversity](http://histo
 * [Lab Exercises](#lab-exercises)
 * [R Exercises](#r-exercises)
 * [Special Presentations](#special-presentations)
+* [Reading & Discussion](#reading-discussion)
 * [Resources](#resources) 
 
 ## <a name="interns-blogs"></a>2018 SEYI:Biodiversity Interns
@@ -75,10 +76,12 @@ Date | Speaker | Topic
 ## <a name="reading-discussion"></a>Reading & Discussion (*subject to change*)
 We will read a combination of peer-reviewed scientific articles as well a book on body size that is geared towards a more genearl audience. The objectives of reading and discussing scientific articles and books are to teach you how to read a scientific paper, provide general background on body-size reserach, and give you an idea of analytical methods you may want to use in your own research. The book we are going to read is *Why Size Matters* by John Bonner.
 
+#### [How to read a paper](https://github.com/naheim/seyibExercises/blob/master/ReadingExercises/ReadingExercises.md) ####
+
 Date | Reading
 ---- | -----
-25 June 2018 AM | Knope *et al.* 2015
-26 June 2018 AM | Heim *et al.* 2015
+25 June 2018 AM | [Knope *et al.* 2015](https://github.com/naheim/seyibExercises/blob/master/ReadingExercises/papers/KnopeEtAl2015.pdf)
+26 June 2018 AM | [Heim *et al.* 2015](https://github.com/naheim/seyibExercises/blob/master/ReadingExercises/papers/HeimEtAl2015.pdf)
 28 June 2018 AM | Bambach *et al.* 2002
 02 July 2018 AM | Bonner Chapters 1 & 2
 05 July 2018 AM | McShea 1995
