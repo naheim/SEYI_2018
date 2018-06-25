@@ -50,7 +50,7 @@ Date | Exercise
 -----|---------
 21 June 2018 AM | [Geologic Timescale](https://github.com/naheim/seyibExercises/blob/master/GeologicTime/geologicTime.md)
 21 June 2018 PM | [Cambrian Fossils](https://github.com/naheim/seyibExercises/blob/master/FossilExercises/Lab01_CambrianFossils.pdf)
-26 June 2018 PM | Paleozoic Fossils
+26 June 2018 PM | [Paleozoic Fossils](https://github.com/naheim/seyibExercises/blob/master/FossilExercises/Lab02_PaleozoicFossils.pdf)
 28 June 2018 PM | Fossils Mollusks
 05 July 2018 PM | Fossils Echinoderms
 
