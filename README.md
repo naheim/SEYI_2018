@@ -12,21 +12,39 @@ This respository contains information for 2018 [SEYI: Biodiversity](http://histo
 * [Reading & Discussion](#reading-discussion)
 * [Resources](#resources) 
 
+## About This Year's Internship
+2018 is the sixth year that I've run the Stanfor Earth Young Investigators: Biodiversity Internship (the Internship formerly known as History of Life). The main foci of the previous five summers were a large body size data colleciton effort and small group, intern-driven research projects. This year I'm trying something completely different. In 2018 we are focuing primarially on data analysis, data vizualizations, and scientific writing: we will collectivley wirte a paper on the physiological and ecological drivers of body size evolution in Phanerozoic marine animals.
+
+## Scientific Objectives
+* Understand why animals have gotten bigger over time
+* Learn why some groups follow the trend and others do not
+* Determine if there are physiological, ecological, or evolutionary drivers to increasing size
+
+## Learning Outcomes
+By the end of the program, interns should be able to…
+
+* critically read a scientific paper.
+* outline and write a scientific paper.
+* formulate and test a paleontological hypothesis.
+* conduct basic statistical analyses.
+* write R code to conduct analyses and generate figures.
+* discuss the basic biology of major marine invertebrate fossils.
+
 ## <a name="interns-blogs"></a>2018 SEYI:Biodiversity Interns
 (links to blogs will be poste by 05 July 2018)
 
 Intern | High School
 ------ | -----------
-Ameya Patkar | Lynbrook High School, San Jose
-Ashli Jain | Menlo School, Atherton
-Christopher Noll | San Mateo High School, San Mateo
-Isabella Villante | Capuchino High School, San Bruno
-Loc Buu | Yerba Buena High School, San Jose
-Noah Rizk | Monta Vista High School, Cupertino
+[Ameya Patkar](https://github.com/Ameya-P/SEYI2018) | Lynbrook High School, San Jose
+[Ashli Jain](https://github.com/ashli-jain/SEYIBiodiversity) | Menlo School, Atherton
+[Christopher Noll](https://github.com/christopher-noll/EarthYoungInvestigatorProject) | San Mateo High School, San Mateo
+[Isabella Villante](https://github.com/bvillante/SEYI-Biodiversity) | Capuchino High School, San Bruno
+[Loc Buu](https://github.com/locbuu408/SEYI2018_LB) | Yerba Buena High School, San Jose
+[Noah Rizk](https://github.com/NoahRizk/SEYI_2018) | Monta Vista High School, Cupertino
 Saket Bakshi | Leigh High School, San Jose
-Shannon Heh | Lynbrook High School, San Jose
-Sriram Sundararajan | Saint Francis High School, Mountain View
-Stephanie Chen | Balboa High School, San Francisco
+[Shannon Heh](https://github.com/shannonheh/SEYI2018_sh) | Lynbrook High School, San Jose
+[Sriram Sundararajan](https://github.com/SriramSundararajan/the-SEYI-folder-) | Saint Francis High School, Mountain View
+[Stephanie Chen](stephaniec415/2018-Stanford-Earth-Young-Investigators-Biodiversity) | Balboa High School, San Francisco
 
 ## <a name="important-dates"></a>Important Dates
 Unless otherwise noted, the internship meets every Monday, Tuesday, & Thursday from 9 AM until 4 PM.
@@ -51,7 +69,7 @@ Date | Exercise
 21 June 2018 AM | [Geologic Timescale](https://github.com/naheim/seyibExercises/blob/master/GeologicTime/geologicTime.md)
 21 June 2018 PM | [Cambrian Fossils](https://github.com/naheim/seyibExercises/blob/master/FossilExercises/Lab01_CambrianFossils.pdf)
 26 June 2018 PM | [Paleozoic Fossils](https://github.com/naheim/seyibExercises/blob/master/FossilExercises/Lab02_PaleozoicFossils.pdf)
-28 June 2018 PM | Fossils Mollusks
+28 June 2018 PM | [Fossils Mollusks](https://github.com/naheim/seyibExercises/blob/master/FossilExercises/Lab02_Mollusks.pdf)
 05 July 2018 PM | Fossils Echinoderms
 
 
@@ -62,7 +80,8 @@ Date | Exercise
 ---- | -----
 25 June 2018 AM | [Beginning R](https://github.com/naheim/startLearn.R/blob/master/beginnerConcepts.md) & [Intermediate R](https://github.com/naheim/startLearn.R/blob/master/intermediateConcepts.md)
 26 June 2018 AM | [Advanced R](https://github.com/naheim/startLearn.R/blob/master/advancedConcepts.md) & [Expert R](https://github.com/naheim/startLearn.R/blob/master/expertConcepts.md)
-26 June 2018 PM | Intro to PBDB
+26 June 2018 PM | [Intro to PBDB](https://github.com/naheim/seyibExercises/blob/master/RExercises/01_PBDB.md)
+02 July 2018 PM | [PBDB Fossil Diversity](https://github.com/naheim/seyibExercises/blob/master/RExercises/02_Diversity.md)
 
 ## <a name="special-presentations"></a>Special Presentations (*in progress & subject to change*)
 This summer we will have several special presentations by Stanford (and maybe other) reserchers. The Goal of these presentations is to indtorduce you to the breadth of evolutinary, ecological, and geolgogical reserach that takes place at Stanford. **This schedule is subject to change**.
@@ -82,9 +101,9 @@ Date | Reading
 ---- | -----
 25 June 2018 AM | [Knope *et al.* 2015](https://github.com/naheim/seyibExercises/blob/master/ReadingExercises/papers/KnopeEtAl2015.pdf)
 26 June 2018 AM | [Heim *et al.* 2015](https://github.com/naheim/seyibExercises/blob/master/ReadingExercises/papers/HeimEtAl2015.pdf)
-28 June 2018 AM | Bambach *et al.* 2002
-02 July 2018 AM | Bonner Chapters 1 & 2
-05 July 2018 AM | McShea 1995
+28 June 2018 AM | [Bambach *et al.* 2002](https://github.com/naheim/seyibExercises/blob/master/ReadingExercises/papers/BambachEtAl2002.pdf)
+02 July 2018 AM | McShea 1995
+05 July 2018 AM | Bonner Chapters 1 & 2
 12 July 2018 AM | Bonner Chapter 3
 17 July 2018 AM | Hunt 2007
 19 July 2018 AM | Bonner Chapter 4
