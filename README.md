@@ -81,7 +81,7 @@ Date | Exercise
 25 June 2018 AM | [Beginning R](https://github.com/naheim/startLearn.R/blob/master/beginnerConcepts.md) & [Intermediate R](https://github.com/naheim/startLearn.R/blob/master/intermediateConcepts.md)
 26 June 2018 AM | [Advanced R](https://github.com/naheim/startLearn.R/blob/master/advancedConcepts.md) & [Expert R](https://github.com/naheim/startLearn.R/blob/master/expertConcepts.md)
 26 June 2018 PM | [Intro to PBDB](https://github.com/naheim/seyibExercises/blob/master/RExercises/01_PBDB.md)
-02 July 2018 PM | [PBDB Fossil Diversity](https://github.com/naheim/seyibExercises/blob/master/RExercises/02_Diversity.md)
+02 July 2018 PM | [Plotting in R](https://github.com/naheim/seyibExercises/blob/master/RExercises/03_ReviewReadingPlotting.md)
 
 ## <a name="special-presentations"></a>Special Presentations (*in progress & subject to change*)
 This summer we will have several special presentations by Stanford (and maybe other) reserchers. The Goal of these presentations is to indtorduce you to the breadth of evolutinary, ecological, and geolgogical reserach that takes place at Stanford. **This schedule is subject to change**.
