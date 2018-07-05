@@ -41,7 +41,7 @@ Intern | High School
 [Isabella Villante](https://github.com/bvillante/SEYI-Biodiversity) | Capuchino High School, San Bruno
 [Loc Buu](https://github.com/locbuu408/SEYI2018_LB) | Yerba Buena High School, San Jose
 [Noah Rizk](https://github.com/NoahRizk/SEYI_2018) | Monta Vista High School, Cupertino
-Saket Bakshi | Leigh High School, San Jose
+[Saket Bakshi](https://github.com/saketbakshi/bioHSI_2018) | Leigh High School, San Jose
 [Shannon Heh](https://github.com/shannonheh/SEYI2018_sh) | Lynbrook High School, San Jose
 [Sriram Sundararajan](https://github.com/SriramSundararajan/the-SEYI-folder-) | Saint Francis High School, Mountain View
 [Stephanie Chen](stephaniec415/2018-Stanford-Earth-Young-Investigators-Biodiversity) | Balboa High School, San Francisco
