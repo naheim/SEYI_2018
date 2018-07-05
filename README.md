@@ -44,7 +44,7 @@ Intern | High School
 [Saket Bakshi](https://github.com/saketbakshi/bioHSI_2018) | Leigh High School, San Jose
 [Shannon Heh](https://github.com/shannonheh/SEYI2018_sh) | Lynbrook High School, San Jose
 [Sriram Sundararajan](https://github.com/SriramSundararajan/the-SEYI-folder-) | Saint Francis High School, Mountain View
-[Stephanie Chen](stephaniec415/2018-Stanford-Earth-Young-Investigators-Biodiversity) | Balboa High School, San Francisco
+[Stephanie Chen](https://github.com/stephaniec415/2018-Stanford-Earth-Young-Investigators-Biodiversity) | Balboa High School, San Francisco
 
 ## <a name="important-dates"></a>Important Dates
 Unless otherwise noted, the internship meets every Monday, Tuesday, & Thursday from 9 AM until 4 PM.
