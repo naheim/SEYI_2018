@@ -83,6 +83,7 @@ Date | Exercise
 26 June 2018 PM | [Intro to PBDB](https://github.com/naheim/seyibExercises/blob/master/RExercises/01_PBDB.md)
 02 July 2018 PM | [Plotting in R](https://github.com/naheim/seyibExercises/blob/master/RExercises/03_ReviewReadingPlotting.md)
 05 July 2018 AM | [Time series analysis wit *paleoTS*](https://github.com/naheim/seyibExercises/blob/master/RExercises/paleoTS.md)
+12 July 2018 AM | [Logistic Regression](https://github.com/naheim/seyibExercises/blob/master/RExercises/logisticRegression.md)
 
 ## <a name="special-presentations"></a>Special Presentations (*in progress & subject to change*)
 This summer we will have several special presentations by Stanford (and maybe other) reserchers. The Goal of these presentations is to indtorduce you to the breadth of evolutinary, ecological, and geolgogical reserach that takes place at Stanford. **This schedule is subject to change**.
@@ -91,6 +92,7 @@ Date | Speaker | Topic
 ---- | --------| -----
 17 July 2018 AM | Don Lowe, Geolgoical Sci. | Precambrian sedimentary geology & geobiology
 24 July 2018 PM | Bridget Algee-Hewitt, Biology | Human Biology
+31 July 2018 PM | Aaron Steelquist, Geolgoical Sci. | Tectonic Geomorphology
 02 August 2018 AM | Erik Sperling & Aodhan Butler, Geolgoical Sci. | Cambrian Paleobiology
 
 ## <a name="reading-discussion"></a>Reading & Discussion (*subject to change*)
@@ -104,7 +106,7 @@ Date | Reading
 26 June 2018 AM | [Heim *et al.* 2015](https://github.com/naheim/seyibExercises/blob/master/ReadingExercises/papers/HeimEtAl2015.pdf)
 28 June 2018 AM | [Bambach *et al.* 2002](https://github.com/naheim/seyibExercises/blob/master/ReadingExercises/papers/BambachEtAl2002.pdf)
 02 July 2018 AM | McShea 1995
-05 July 2018 AM | Bonner Chapters 1 & 2
+05 July 2018 PM | Bonner Chapters 1 & 2
 12 July 2018 AM | Bonner Chapter 3
 17 July 2018 AM | Hunt 2007
 19 July 2018 AM | Bonner Chapter 4
