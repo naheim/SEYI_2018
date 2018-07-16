@@ -33,18 +33,18 @@ By the end of the program, interns should be able to…
 ## <a name="interns-blogs"></a>2018 SEYI:Biodiversity Interns
 (links to blogs will be poste by 05 July 2018)
 
-Intern | High School
------- | -----------
-[Ameya Patkar](https://github.com/Ameya-P/SEYI2018) | Lynbrook High School, San Jose
-[Ashli Jain](https://github.com/ashli-jain/SEYIBiodiversity) | Menlo School, Atherton
-[Christopher Noll](https://github.com/christopher-noll/EarthYoungInvestigatorProject) | San Mateo High School, San Mateo
-[Isabella Villante](https://github.com/bvillante/SEYI-Biodiversity) | Capuchino High School, San Bruno
-[Loc Buu](https://github.com/locbuu408/SEYI2018_LB) | Yerba Buena High School, San Jose
-[Noah Rizk](https://github.com/NoahRizk/SEYI_2018) | Monta Vista High School, Cupertino
-[Saket Bakshi](https://github.com/saketbakshi/bioHSI_2018) | Leigh High School, San Jose
-[Shannon Heh](https://github.com/shannonheh/SEYI2018_sh) | Lynbrook High School, San Jose
-[Sriram Sundararajan](https://github.com/SriramSundararajan/the-SEYI-folder-) | Saint Francis High School, Mountain View
-[Stephanie Chen](https://github.com/stephaniec415/2018-Stanford-Earth-Young-Investigators-Biodiversity) | Balboa High School, San Francisco
+Intern | High School | Blogs
+------ | ----------- | -----
+[Ameya Patkar](https://github.com/Ameya-P/SEYI2018) | Lynbrook High School, San Jose | [Blog 1](https://github.com/Ameya-P/SEYI2018/blob/master/blogs/Blog1.md)
+[Ashli Jain](https://github.com/ashli-jain/SEYIBiodiversity) | Menlo School, Atherton | [Blog 1]
+[Christopher Noll](https://github.com/christopher-noll/EarthYoungInvestigatorProject) | San Mateo High School, San Mateo | [Blogs](https://github.com/Christopher-Noll/EarthYoungInvestigatorProject/tree/master/Blogs)
+[Isabella Villante](https://github.com/bvillante/SEYI-Biodiversity) | Capuchino High School, San Bruno | [Blog 1](https://github.com/bvillante/SEYI-Biodiversity/blob/master/blogs/Blogs%201.md)
+[Loc Buu](https://github.com/locbuu408/SEYI2018_LB/blob/master/blogs/Post%20%231.md) | Yerba Buena High School, San Jose | [Blog 1]()
+[Noah Rizk](https://github.com/NoahRizk/SEYI_2018) | Monta Vista High School, Cupertino | [Blog 1](https://stanfordearthinterns.wordpress.com/author/noahrizk/)
+[Saket Bakshi](https://github.com/saketbakshi/bioHSI_2018) | Leigh High School, San Jose | [Blog 1](https://github.com/saketbakshi/bioHSI_2018/blob/master/Blogs/Blog%201.md)
+[Shannon Heh](https://github.com/shannonheh/SEYI2018_sh) | Lynbrook High School, San Jose | [Blog 1](https://github.com/shannonheh/SEYI2018_sh/blob/master/Blogs/Blog%201.md)
+[Sriram Sundararajan](https://github.com/SriramSundararajan/the-SEYI-folder-) | Saint Francis High School, Mountain View | [Blog 1](https://github.com/SriramSundararajan/the-SEYI-folder-/blob/master/Bloggy-Folder/Blog1.md)
+[Stephanie Chen](https://github.com/stephaniec415/2018-Stanford-Earth-Young-Investigators-Biodiversity) | Balboa High School, San Francisco | [Blog 1](https://github.com/stephaniec415/2018-Stanford-Earth-Young-Investigators-Biodiversity/blob/master/Blogs/SEYI%20Blog%201.md)
 
 ## <a name="important-dates"></a>Important Dates
 Unless otherwise noted, the internship meets every Monday, Tuesday, & Thursday from 9 AM until 4 PM.
