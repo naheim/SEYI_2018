@@ -35,16 +35,16 @@ By the end of the program, interns should be able to…
 
 Intern | High School | Blogs
 ------ | ----------- | -----
-[Ameya Patkar](https://github.com/Ameya-P/SEYI2018) | Lynbrook High School, San Jose | [Blog 1](https://github.com/Ameya-P/SEYI2018/blob/master/blogs/Blog1.md)
-[Ashli Jain](https://github.com/ashli-jain/SEYIBiodiversity) | Menlo School, Atherton | [Blog 1]
+[Ameya Patkar](https://github.com/Ameya-P/SEYI2018) | Lynbrook High School, San Jose | [Blog 1](https://github.com/Ameya-P/SEYI2018/blob/master/blogs/Blog1.md), [Blog 2](https://github.com/Ameya-P/SEYI2018/blob/master/blogs/Blog2.md)
+[Ashli Jain](https://github.com/ashli-jain/SEYIBiodiversity) | Menlo School, Atherton | [Blog 1](https://github.com/ashli-jain/SEYIBiodiversity/blob/master/blogs/Blogpost%20%231.docx), [Blog 2](https://github.com/ashli-jain/SEYIBiodiversity/tree/master/blogs/Blogpost%20%232.pages)
 [Christopher Noll](https://github.com/christopher-noll/EarthYoungInvestigatorProject) | San Mateo High School, San Mateo | [Blogs](https://github.com/Christopher-Noll/EarthYoungInvestigatorProject/tree/master/Blogs)
-[Isabella Villante](https://github.com/bvillante/SEYI-Biodiversity) | Capuchino High School, San Bruno | [Blog 1](https://github.com/bvillante/SEYI-Biodiversity/blob/master/blogs/Blogs%201.md)
-[Loc Buu](https://github.com/locbuu408/SEYI2018_LB/blob/master/blogs/Post%20%231.md) | Yerba Buena High School, San Jose | [Blog 1]()
-[Noah Rizk](https://github.com/NoahRizk/SEYI_2018) | Monta Vista High School, Cupertino | [Blog 1](https://stanfordearthinterns.wordpress.com/author/noahrizk/)
-[Saket Bakshi](https://github.com/saketbakshi/bioHSI_2018) | Leigh High School, San Jose | [Blog 1](https://github.com/saketbakshi/bioHSI_2018/blob/master/Blogs/Blog%201.md)
-[Shannon Heh](https://github.com/shannonheh/SEYI2018_sh) | Lynbrook High School, San Jose | [Blog 1](https://github.com/shannonheh/SEYI2018_sh/blob/master/Blogs/Blog%201.md)
-[Sriram Sundararajan](https://github.com/SriramSundararajan/the-SEYI-folder-) | Saint Francis High School, Mountain View | [Blog 1](https://github.com/SriramSundararajan/the-SEYI-folder-/blob/master/Bloggy-Folder/Blog1.md)
-[Stephanie Chen](https://github.com/stephaniec415/2018-Stanford-Earth-Young-Investigators-Biodiversity) | Balboa High School, San Francisco | [Blog 1](https://github.com/stephaniec415/2018-Stanford-Earth-Young-Investigators-Biodiversity/blob/master/Blogs/SEYI%20Blog%201.md)
+[Isabella Villante](https://github.com/bvillante/SEYI-Biodiversity) | Capuchino High School, San Bruno | [Blog 1](https://github.com/bvillante/SEYI-Biodiversity/blob/master/blogs/Blogs%201.md), [Blog 2](https://github.com/bvillante/SEYI-Biodiversity/blob/master/blogs/Bella’s%20B2%20Final.pdf)
+[Loc Buu](https://github.com/locbuu408/SEYI2018_LB/blob/master/blogs/Post%20%231.md) | Yerba Buena High School, San Jose | [Blog 1](https://github.com/locbuu408/SEYI2018_LB/blob/master/blogs/Post%20%231.md), [Blog 2]
+[Noah Rizk](https://github.com/NoahRizk/SEYI_2018) | Monta Vista High School, Cupertino | [Blog 1](https://stanfordearthinterns.wordpress.com/author/noahrizk/), [Blog 2]()
+[Saket Bakshi](https://github.com/saketbakshi/bioHSI_2018) | Leigh High School, San Jose | [Blog 1](https://github.com/saketbakshi/bioHSI_2018/blob/master/Blogs/Blog%201.md), [Blog 2](https://github.com/saketbakshi/bioHSI_2018/blob/master/Blogs/Blog%202.md)
+[Shannon Heh](https://github.com/shannonheh/SEYI2018_sh) | Lynbrook High School, San Jose | [Blog 1](https://github.com/shannonheh/SEYI2018_sh/blob/master/Blogs/Blog%201.md), [Blog 2](https://github.com/shannonheh/SEYI2018_sh/blob/master/Blogs/Blog%202.md)
+[Sriram Sundararajan](https://github.com/SriramSundararajan/the-SEYI-folder-) | Saint Francis High School, Mountain View | [Blog 1](https://github.com/SriramSundararajan/the-SEYI-folder-/blob/master/Bloggy-Folder/Blog1.md), [Blog 2](https://github.com/SriramSundararajan/the-SEYI-folder-/blob/master/Bloggy-Folder/Sriram%20blog%202.pdf)
+[Stephanie Chen](https://github.com/stephaniec415/2018-Stanford-Earth-Young-Investigators-Biodiversity) | Balboa High School, San Francisco | [Blog 1](https://github.com/stephaniec415/2018-Stanford-Earth-Young-Investigators-Biodiversity/blob/master/Blogs/SEYI%20Blog%201.md), [Blog 2](https://github.com/stephaniec415/2018-Stanford-Earth-Young-Investigators-Biodiversity/blob/master/Blogs/SEYI%20Blog%202.md)
 
 ## <a name="important-dates"></a>Important Dates
 Unless otherwise noted, the internship meets every Monday, Tuesday, & Thursday from 9 AM until 4 PM.
@@ -58,6 +58,7 @@ Date | Trip/Due Date
 09-10 July 2018 | Overnight field Trip to Salinas Valley & Pinnacles National Park
 23 July 2018 | Half-day field trip with MSI noon to ~6 PM, please show up for the regular 9 AM start time
 27 July 2018 | **Blog 2 due at 6 PM**
+07 August 2018 | Practice Final presentations ~10 AM
 09 August 2018 | Final presentations & last day of internship
 10 August 2018 | **Blog 3 due at 6 PM**
 
@@ -85,15 +86,14 @@ Date | Exercise
 05 July 2018 AM | [Time series analysis wit *paleoTS*](https://github.com/naheim/seyibExercises/blob/master/RExercises/paleoTS.md)
 12 July 2018 AM | [Logistic Regression](https://github.com/naheim/seyibExercises/blob/master/RExercises/logisticRegression.md)
 
-## <a name="special-presentations"></a>Special Presentations (*in progress & subject to change*)
+## <a name="special-presentations"></a>Special Presentations
 This summer we will have several special presentations by Stanford (and maybe other) reserchers. The Goal of these presentations is to indtorduce you to the breadth of evolutinary, ecological, and geolgogical reserach that takes place at Stanford. **This schedule is subject to change**.
 
 Date | Speaker | Topic
 ---- | --------| -----
-17 July 2018 AM | Don Lowe, Geolgoical Sci. | Precambrian sedimentary geology & geobiology
-24 July 2018 PM | Bridget Algee-Hewitt, Biology | Human Biology
-31 July 2018 PM | Aaron Steelquist, Geolgoical Sci. | Tectonic Geomorphology
-02 August 2018 AM | Erik Sperling & Aodhan Butler, Geolgoical Sci. | Cambrian Paleobiology
+17 July 2018 AM | [Don Lowe](https://pangea.stanford.edu/people/donald-lowe), Geolgoical Sci. | Precambrian sedimentary geology & geobiology
+31 July 2018 PM | [Aaron Steelquist](https://profiles.stanford.edu/aaron-steelquist), Geolgoical Sci. | Geomorphology
+02 August 2018 AM | [Erik Sperling & Aodhan Butler](https://pangea.stanford.edu/historical-geobiology/), Geolgoical Sci. | Cambrian Paleobiology
 
 ## <a name="reading-discussion"></a>Reading & Discussion (*subject to change*)
 We will read a combination of peer-reviewed scientific articles as well a book on body size that is geared towards a more genearl audience. The objectives of reading and discussing scientific articles and books are to teach you how to read a scientific paper, provide general background on body-size reserach, and give you an idea of analytical methods you may want to use in your own research. The book we are going to read is *Why Size Matters* by John Bonner.
